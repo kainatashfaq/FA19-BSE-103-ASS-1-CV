@@ -162,7 +162,7 @@ text{
     width: 50%;
     padding: 10px;
     float: right;
-    margin-top: -50px;
+    margin-top: -20px;
 }
 
 .w3-xlarge{
@@ -208,7 +208,7 @@ text{
     font-weight: normal;
     padding-left: 40px;
     color: gray;
-    margin-top: -15px;
+    margin-top: -5px;
 }
 
 .work-group span{
@@ -254,7 +254,6 @@ text{
 
 .edu-group p{
     padding-left: 50px;
-    margin-top: -5px;
 }
 
 button{
